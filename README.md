@@ -1,12 +1,8 @@
-# Project Name
+# Carrigan's Community
 
-Project Description
+Welcome to our GitHub organisation! This repository serves as our primary source of information for contributing to our projects, joining our community, and any other questions you might have.
 
-![](https://img.shields.io/codeclimate/maintainability/nhcarrigan/new-repo-template)
-![](https://img.shields.io/codeclimate/issues/nhcarrigan/new-repo-template)
-![](https://img.shields.io/codeclimate/tech-debt/nhcarrigan/new-repo-template)
-![](https://img.shields.io/lgtm/alerts/github/nhcarrigan/new-repo-template)
-![](https://img.shields.io/lgtm/grade/javascript/github/nhcarrigan/new-repo-template)
+If you have not done so already, you should also join our [chat server](http://chat.nhcarrigan.com) to interact with everyone.
 
 ## Live Version
 
@@ -20,7 +16,11 @@ If you have feedback or a bug report, please feel free to open a GitHub issue!
 
 ## Contributing
 
-If you would like to contribute to the project, you may create a Pull Request containing your proposed changes and we will review it as soon as we are able! Please review our [contributing guidelines](CONTRIBUTING.md) first.
+If you would like to contribute to one of our projects, you are more than welcome to do so. We recommend creating an issue on the project's repository so your proposed changes can be discussed and any questions you have can be answered. Then, when a plan of approach has been decided on, you are welcome to create a pull request for that project and we will review your changes as a community.
+
+Anyone can review changes in a pull request - you do not need to have write access to provide feedback.
+
+Each project will have a copy of our [Contributing Guidelines](CONTRIBUTING.md) with specific information added for that project. Please follow these guidelines to ensure a streamlined workflow.
 
 ## Code of Conduct
 
@@ -28,14 +28,6 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
 
 ## Licensing
 
-Copyright (C) 2021 Nicholas Carrigan
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+All projects are licensed under the AGPL-3.0 license.
 
 The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
-
-## Contact
-
-We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via [email form](https://contact.nhcarrigan.com).
