@@ -1,0 +1,19 @@
+name: Join Organization
+description: This issue template can be helpful for beginner who wish to join the community..
+title: "Invite me to the organization"
+labels: ["🚦 status: awaiting triage"]
+assignees: prathamesh-borse
+body:
+  - type: markdown
+    attributes:
+      value: '# Join Organization'
+  - type: textarea
+    id: joinorgdescription
+    attributes:
+      label: Please Explain why do you want to join the organization? 
+      description: |
+        Please provide a clear description that why do you want to join this organization.
+        
+        Include the steps you took to cause the bug, and an explanation of what occurred.
+    validations:
+      required: true
