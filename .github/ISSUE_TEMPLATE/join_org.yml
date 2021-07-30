@@ -1,0 +1,16 @@
+name: Join Organization
+description: Use this template to request an invitation to our organization.
+title: "[ORG] Invite me to the organization"
+labels: ["🚦 status: awaiting triage"]
+assignees: nhcarrigan
+body:
+  - type: markdown
+    attributes:
+      value: '# Join Our Organization'
+  - type: textarea
+    id: description
+    attributes:
+      label: Why do you want to join our organization? 
+      description: Please provide a clear description of why you want to join our organization.
+    validations:
+      required: true
