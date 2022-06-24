@@ -32,4 +32,4 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
 
 All projects are licensed under the AGPL-3.0 license.
 
-The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
+The full license terms may be viewed in the [LICENSE.md](./LICENSE.md) file.
