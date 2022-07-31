@@ -2,7 +2,7 @@ name: Join Organization
 description: Use this template to request an invitation to our organization.
 title: "[ORG] Invite me to the organization"
 labels: ["✉️ misc: invite to org"]
-assignees: nhcarrigan
+assignees: naomi-lgbt
 body:
   - type: markdown
     attributes:
