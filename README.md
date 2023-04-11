@@ -1,4 +1,4 @@
-# Carrigan's Community
+# Naomi's Novas
 
 Welcome to our GitHub organisation! This repository serves as our primary source of information for contributing to our projects, joining our community, and any other questions you might have.
 
