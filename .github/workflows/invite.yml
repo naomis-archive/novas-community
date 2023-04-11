@@ -31,7 +31,7 @@ jobs:
                 issue_number,
                 owner,
                 repo,
-                body: 'You are already a part of Naomi's Novas~!\n\nIf you haven't already, join our [Discord](https://chat.naomi.lgbt)!'
+                body: "You are already a part of Naomi's Novas~!\n\nIf you haven't already, join our [Discord](https://chat.naomi.lgbt)!"
               });
             } else {
               await github.rest.orgs.createInvitation({
