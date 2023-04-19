@@ -30,6 +30,6 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
 
 ## Licensing
 
-All projects are licensed under the AGPL-3.0 license.
+All projects are licensed under the Mozilla Public License, v. 2.0.
 
 The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
