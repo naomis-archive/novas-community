@@ -28,8 +28,8 @@ Each project will have a copy of our [Contributing Guidelines](CONTRIBUTING.md) 
 
 Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Licensing
+# License
 
-All projects are licensed under the Mozilla Public License, v. 2.0.
+All projects are licensed under our [global software license](https://docs.nhcarrigan.com/#/license).
 
-The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
+Copyright held by Naomi Carrigan.
